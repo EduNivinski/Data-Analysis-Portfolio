@@ -4,7 +4,7 @@ Welcome to my Data Analytics portfolio!
 Here you will find my main projects showcasing my skills in **SQL**, **Python**, **Power BI**, and **Machine Learning**.  
 Each project includes datasets, code, and business insights.
 
-[Link to my base workflow]([url](https://github.com/EduNivinski/Data-Analysis-Portfolio/blob/main/Workflow%20Data%20Analysis%20Document.jpg)) 
+[Link to my base workflow]([url](https://github.com/EduNivinski/Data-Analysis-Portfolio/blob/main/Workflow%20Data%20Analysis%20Document.jpg)
 
 ---
 
